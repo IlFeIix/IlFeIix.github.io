@@ -2,9 +2,11 @@
 
 Hello. My name is Felix Nguyen and I am a student at Cal State Fullerton and my major is computer science.
 
-## Favorite CPSC 120L Labs
+## Computer Science Projects 
 
 My GitHub page is http://github.com/IlFeIix.
+
+### Favorite CPSC 120L Labs
 
 * Lab 4, part 2
   
